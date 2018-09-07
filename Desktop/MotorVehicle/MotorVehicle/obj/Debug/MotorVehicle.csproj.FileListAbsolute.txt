@@ -1,0 +1,12 @@
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\obj\Debug\MotorVehicle.Login_Page.resources
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\obj\Debug\MotorVehicle.Motor_frm.resources
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\obj\Debug\MotorVehicle.Properties.Resources.resources
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\obj\Debug\MotorVehicle.Search.resources
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\obj\Debug\MotorVehicle.csproj.GenerateResource.cache
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\obj\Debug\MotorVehicle.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\bin\Debug\MotorVehicle.exe.config
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\bin\Debug\MotorVehicle.exe
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\bin\Debug\MotorVehicle.pdb
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\obj\Debug\MotorVehicle.exe
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\obj\Debug\MotorVehicle.pdb
+C:\Users\akash\source\repos\MotorVehicle\MotorVehicle\obj\Debug\MotorVehicle.csprojAssemblyReference.cache
